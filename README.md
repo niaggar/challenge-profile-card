@@ -8,6 +8,9 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - Build out the project to the designs provided
 
+### Links
+- Live site [URL](https://niaggar.github.io/challenge-profile-card/).
+
 ### Screenshot
 
 ![](./public/images/Screenshot.png)
