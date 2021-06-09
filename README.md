@@ -17,7 +17,3 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
-
-### What I learned
-
-I use this challenge to impruve and practice my knowledge about css and html
